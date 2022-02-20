@@ -1,6 +1,6 @@
 {
     "name": "@andrewiski/openssl",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Tool to assist with creating a CA using OpenSSL",
     "main": "openssl.js",
     "license": "GPL-3.0-or-later",
